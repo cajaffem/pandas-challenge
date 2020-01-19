@@ -1,0 +1,12 @@
+Observable Trends:
+
+1. The bottom 5 and top 5 performing schools are all 'District' and 'Charter', respecitvely.
+ 
+2. Average math and reading grades do not appear to vary significantly between grades within the same school.
+
+3. Attending 'Charter' type schools markedly affects percentage of those who pass math, from approx 67% to approx 94%. 
+The difference was less notable in reading
+
+4. School size had a significant impact on subject passing rates (again, especially so with respect to maths). Adding school type to the
+data_summary_type chart also showed that school type and size also correlated; the average Charter school was more than twice as small
+as the average District school.
